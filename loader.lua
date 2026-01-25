@@ -3,7 +3,7 @@
 --// ============================================================
 
 local WebhookURL = "https://discord.com/api/webhooks/1464221554882773015/ftA-3uBbD71H5K_0RsOgJr5nX0lFdMDlCaOQFPHhmzuo-czcDhJQQJmcH5F3bpBCAqxR"
-local ScriptURL = "PASTE_YOUR_RAW_URL_HERE" 
+local ScriptURL = "https://raw.githubusercontent.com/nofearscripts/bspin/main/main.lua" 
 
 -- This is your unique namespace for the counter
 -- Change "NoFear_Arsenal_Project" to something unique if you want to reset it
