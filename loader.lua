@@ -7,7 +7,7 @@ local ScriptURL = "https://raw.githubusercontent.com/nofearscripts/bspin/main/ma
 
 -- This is your unique namespace for the counter
 -- Change "NoFear_Arsenal_Project" to something unique if you want to reset it
-local CounterNamespace = "NoFear_Arsenal_Project" 
+local CounterNamespace = "NoFear_BlockSpin" 
 local CounterKey = "executions"
 
 local HttpService = game:GetService("HttpService")
